@@ -1,0 +1,73 @@
+Here’s a simple **Agile Framework Diagram** to help you visualize how Agile works — particularly in **Scrum**, which is the most widely used Agile framework.
+
+---
+
+### 📊 **Agile Framework (Scrum) Diagram – Textual Representation**
+
+```
+                      +----------------------+
+                      |      Product Owner   |
+                      +----------------------+
+                                |
+                                v
+                    +---------------------------+
+                    |     Product Backlog       |
+                    +---------------------------+
+                                |
+                                v
+                +------------------------------------+
+                |     Sprint Planning Meeting        |
+                +------------------------------------+
+                                |
+                                v
+                  +-----------------------------+
+                  |     Sprint Backlog          |
+                  +-----------------------------+
+                                |
+                                v
+           +----------------------------------------------+
+           |                Sprint Cycle                  |
+           |       (1–4 weeks of development)             |
+           | +------------------+   +------------------+  |
+           | |  Daily Scrum     |-->|  Dev/Test/Design |  |
+           | +------------------+   +------------------+  |
+           +----------------------------------------------+
+                                |
+                                v
+                   +-----------------------------+
+                   |   Potentially Shippable     |
+                   |     Product Increment       |
+                   +-----------------------------+
+                                |
+                                v
+         +---------------------------------------------+
+         |      Sprint Review & Sprint Retrospective   |
+         +---------------------------------------------+
+                                |
+                                v
+                        (Next Sprint Begins)
+```
+
+---
+
+### 🔄 **Flow Summary**
+
+1. **Product Backlog** – All features and requirements prioritized by the **Product Owner**.
+2. **Sprint Planning** – Team selects items to work on during the upcoming sprint.
+3. **Sprint Backlog** – Set of user stories/tasks selected for the sprint.
+4. **Sprint Execution (1–4 weeks)** – Includes daily standups and actual work (coding, testing, designing).
+5. **Sprint Review** – Demonstrate the completed work to stakeholders.
+6. **Sprint Retrospective** – Team reflects on what went well and what to improve.
+7. **Repeat** – Start next sprint.
+
+---
+
+### 📦 Key Roles in the Framework
+
+* **Product Owner** – Owns the product vision and backlog.
+* **Scrum Master** – Facilitates the process, removes blockers.
+* **Development Team** – Builds and delivers the product increment.
+
+---
+
+Would you like a **downloadable version** (PDF or image), or a diagram tailored for another Agile framework like **Kanban** or **SAFe**?
