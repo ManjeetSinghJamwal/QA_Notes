@@ -1,0 +1,157 @@
+Here's a **comprehensive Manual Testing syllabus** that's useful for beginners to intermediates. This syllabus covers all the core concepts you’d need for understanding and performing manual testing effectively.
+
+---
+
+## 🧪 Manual Testing Syllabus
+
+### **1. Introduction to Software Testing**
+
+* What is Software Testing?
+* Why Testing is Important?
+* Difference between Manual and Automation Testing
+* Roles and Responsibilities of a Software Tester
+* Software Development Life Cycle (SDLC)
+* Software Testing Life Cycle (STLC)
+* Testing Principles
+
+---
+
+### **2. Software Development Models**
+
+* Waterfall Model
+* V-Model
+* Agile Model (Scrum, Kanban)
+* Iterative and Incremental Models
+
+---
+
+### **3. Types of Testing**
+
+#### ✅ Based on Execution:
+
+* Manual Testing
+* Automation Testing
+
+#### ✅ Based on Knowledge:
+
+* Black Box Testing
+* White Box Testing
+* Grey Box Testing
+
+#### ✅ Based on Functionality:
+
+* Functional Testing
+
+  * Smoke Testing
+  * Sanity Testing
+  * Integration Testing
+  * System Testing
+  * Regression Testing
+  * User Acceptance Testing (UAT)
+
+* Non-Functional Testing
+
+  * Performance Testing
+  * Load Testing
+  * Stress Testing
+  * Usability Testing
+  * Security Testing
+  * Compatibility Testing
+
+---
+
+### **4. Levels of Testing**
+
+* Unit Testing
+* Integration Testing
+* System Testing
+* Acceptance Testing
+
+---
+
+### **5. Test Artifacts / Deliverables**
+
+* Test Plan
+* Test Strategy
+* Test Scenario
+* Test Case
+* Test Script
+* Test Data
+* Traceability Matrix
+* Defect Report / Bug Report
+
+---
+
+### **6. Test Case Design Techniques**
+
+* Equivalence Partitioning
+* Boundary Value Analysis
+* Decision Table Testing
+* State Transition Testing
+* Use Case Testing
+* Error Guessing
+
+---
+
+### **7. Defect Life Cycle (Bug Life Cycle)**
+
+* What is a Defect?
+* Defect Report Template
+* Defect Logging Process
+* Statuses of a Defect
+* Severity vs Priority
+
+---
+
+### **8. Test Management and Tools (Overview)**
+
+* Test Management Tools:
+
+  * TestLink, PractiTest, qTest
+* Bug Tracking Tools:
+
+  * JIRA, Bugzilla, Mantis
+* Documentation Tools:
+
+  * Confluence, Google Docs
+
+---
+
+### **9. Agile Testing Concepts**
+
+* Agile Methodology Overview
+* Scrum Process
+* User Stories and Acceptance Criteria
+* Sprint Planning, Review, and Retrospective
+* Daily Stand-up Meetings
+* Role of QA in Agile
+
+---
+
+### **10. Real-time Project Practices**
+
+* Writing Test Cases for Sample Applications
+* Reporting Bugs in a Bug Tracking Tool
+* Preparing Test Reports
+* Understanding Requirements and Mapping to Test Cases
+
+---
+
+### **11. Interview Preparation**
+
+* Common Manual Testing Interview Questions
+* Resume Preparation Tips
+* Project-based Questions
+* Scenario-based Questions
+
+---
+
+## Optional Add-ons (Good to Know)
+
+* Basic SQL for Testers
+* Basics of API Testing (using Postman)
+* Introduction to Automation Testing (Selenium overview)
+
+---
+
+Would you like a downloadable **PDF version** or a **customized study plan** based on your experience level or goals?
