@@ -71,3 +71,41 @@ Here’s a simple **Agile Framework Diagram** to help you visualize how Agile wo
 ---
 
 Would you like a **downloadable version** (PDF or image), or a diagram tailored for another Agile framework like **Kanban** or **SAFe**?
+
+
+
+                 +---------------------+
+                 |    Stakeholders     |
+                 +---------------------+
+                          ▲
+                          |
+                 Communicate Needs
+                          |
+         +----------------+----------------+
+         |                                 |
+         |                                 |
++--------------------+           +--------------------+
+|   Product Owner     |           |   Scrum Master     |
++--------------------+           +--------------------+
+| - Owns Product Backlog         | - Coaches Scrum Team |
+| - Defines user stories         | - Facilitates Scrum  |
+| - Sets priorities              | - Removes impediments|
+| - Accepts/rejects work         | - Shields the team   |
++--------------------+           +--------------------+
+         |                                 |
+         |                                 |
+         +---------------+----------------+
+                         |
+                 +---------------------+
+                 |  Development Team   |
+                 +---------------------+
+                 | - Builds the product|
+                 | - Self-organized    |
+                 | - Delivers increment|
+                 +---------------------+
+                         |
+                         v
+                 +---------------------+
+                 |   Working Product   |
+                 +---------------------+
+
